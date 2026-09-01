@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/xdrucker720
 [instagram]: https://www.instagram.com/xdrucker720
-[linkedin]: https://linkedin.com/in/xavierdrucker
+[linkedin]: https://www.linkedin.com/in/xavierdrucker/
