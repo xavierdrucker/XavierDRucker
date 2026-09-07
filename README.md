@@ -1,4 +1,4 @@
-Gemini_Generated_Image_uxa9gouxa9gouxa9
+
 
 
 <h1>Hi, I'm Xavier, an <a href="https://linkedin.com/in/xavierdrucker">IT Professional</a>!</h1>
