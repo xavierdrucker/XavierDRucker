@@ -8,7 +8,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/xavierdrucker/ticket-lifecycle)
 - <b>Microsoft Azure</b> 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/xavierdrucker/azure-network-protocols)
+  - [Azure Windows Vm Configured lab](https://github.com/xavierdrucker/azure-windows-vm-lab.git)
 
 <h2>🤳Connect with me:</h2>
 
