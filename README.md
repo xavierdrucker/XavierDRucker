@@ -5,7 +5,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-<b>Microsoft Azure</b> 
+<h2>Microsoft Azure<h2> 
   - [Azure Windows Vm Configured lab](https://github.com/xavierdrucker/azure-windows-vm-lab.git)
     
 
