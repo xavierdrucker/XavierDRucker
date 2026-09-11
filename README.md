@@ -14,9 +14,9 @@
 
 
 
-- <b>PC & Windows Troubleshooting Labs</b>
+- <b>Troubleshooting Labs</b>
 
-  - 
+  - [PC & Windows Troubleshooting lab](https://github.com/xavierdrucker/Troubleshooting-Sluggish-PC)
 
 
 
