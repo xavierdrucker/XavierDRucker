@@ -9,7 +9,8 @@
 - <b>Microsoft Azure</b>
   
   - [Azure Windows Vm Configured lab](https://github.com/xavierdrucker/azure-windows-vm-lab.git)
-    
+
+  - [Azure Windows Virtual Network Configured lab](https://github.com/xavierdrucker/Microsoft-Azure-VN-Subnet)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
