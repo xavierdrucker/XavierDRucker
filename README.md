@@ -1,6 +1,6 @@
 <img width="2064" height="512" alt="Gemini_Generated_Image_uxa9gouxa9gouxa9" src="https://github.com/user-attachments/assets/4263702c-250e-4413-a300-03586c4e33cd" />
 
-<h1>Hi, I'm Xavier, an <a href="https://linkedin.com/in/xavierdrucker">IT Professional</a>! <a href="https://www.youtube.com/c/@XDRUCKER">Tech YouTuber</a></h1>
+<h1>Hi, I'm Xavier, an <a href="https://linkedin.com/in/xavierdrucker">IT Professional</a>!
 
 
 <h2> 👨‍💻 Information Technology Projects:</h2>
