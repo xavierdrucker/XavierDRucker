@@ -32,5 +32,4 @@
 
 [linkedin]:https://www.linkedin.com/in/xavierdrucker/
 [instagram]:https://www.instagram.com/xdrucker720
-[YouTube]:https://www.youtube.com/@XDRUCKER
 [twitter/X]:https://twitter.com/xdrucker720
