@@ -13,11 +13,6 @@
   - [Azure Windows Virtual Network Configured lab](https://github.com/xavierdrucker/Microsoft-Azure-VN-Subnet)
 
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/xavierdrucker/ticket-lifecycle)
-    
-
-
 
 
 <h2>🤳Connect with me:</h2>
